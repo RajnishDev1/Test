@@ -1,3 +1,12 @@
-This is my first file
+Hi Raj,
 
-This is another statement before commit again
+As a Technical advisor for SCOM and I completely understand your concern around the Remote Desktop Services (RDS) monitoring not working as expected on Windows Server 2025, and I appreciate you taking the time to raise this.
+
+Based on the current Microsoft implementation, this behavior is expected and by design. As of March 2026, the latest official Microsoft Remote Desktop Services Management Pack (version 10.0.6.0) does not yet include discovery logic or monitoring support for Windows Server 2025.
+While the management pack branding mentions “Windows Server 2016 and above”, Windows Server 2025 is not officially included in the discovery conditions, which is why the RDS roles and objects are not being discovered or monitored.
+
+At this point, the support for Windows Server 2025 would need to be introduced through an updated version of the RDS Management Pack from Microsoft.
+
+Please be assured that we are actively tracking this, and once Microsoft releases an updated management pack with official Windows Server 2025 support, we will notify you immediately and assist you with validation and deployment.
+If you’d like, we can also discuss temporary visibility options or alternative monitoring approaches until official support becomes available.
+Thank you for your understanding, and please feel free to reach out if you have any questions or would like to explore next steps.
