@@ -1,0 +1,54 @@
+The case notes have been updated correctly. The scope agreement now needs to be shared with the customer. Overall, the case is progressing in the right direction
+
+Duplicate:
+
+Following customer confirmation, we are proceeding to close this case as it has been identified as a duplicate of case 2601090050002366. Both cases pertain to the same customer and the same underlying issue. To avoid parallel efforts and ensure focused troubleshooting, all further investigation and resolution activities will continue under the existing case 2601090050002366.
+
+
+Unresponsive
+The case notes have been updated, and the case is progressing in the right direction. If the customer remains unresponsive, please attempt to follow up via phone for an update.
+
+Given that the customer has been unresponsive for some time, it’s important to initiate regular follow-ups to re-engage and assess progress. Alternatively, we can share a detailed summary of the troubleshooting steps and recommended actions via email to help the customer continue investigating independently until they’re available for further discussion.
+
+Logs:
+The required logs have been successfully uploaded by the customer. Need to proceed with analyzing the logs and share an appropriate action plan with the customer based on findings.
+
+The notes provided are incomplete, and it’s difficult to understand the exact issue or the alerts the customer is receiving. We need at least a full and clear description of the alerts in order to propose an appropriate action plan. This needs improvement moving forward
+
+
+All good 
+The case notes have been updated with all troubleshooting steps performed. The scope agreement has been shared with the customer, and the case is moving in the right direction. Continued follow-up with the customer is recommended to ensure steady progress
+
+
+It appears the resolution is taking longer than expected. Please prioritize this case and ensure it is actioned appropriately so we can work toward resolving the issue as soon as possible
+
+All good 
+The case is progressing in the right direction. Regular follow-ups with the customer are necessary to confirm whether the provided action plan has effectively resolved the issue
+
+New case FQR sent
+
+As there has been no progress on the newly opened case, a call needs to be scheduled with the customer to discuss the current status, clarify the scope, and provide the necessary information. Following the discussion, a summary email will be sent to the customer outlining the key points and confirming the scope of work. Additionally, the case notes will be updated to reflect the details shared and agreed upon during the call, ensuring clear documentation and alignment moving forward.
+
+Please ensure the latest notes are updated to include all troubleshooting steps performed. Additionally, I noticed that a call was scheduled for today, but no Minutes of Meeting (MoM) have been shared with the customer. 
+
+
+CSAM:
+
+The case is progressing in the right direction. Regular follow-ups with the CSAM confirm whether the CSA has been engaged and need to confirm with the customer for the archival as there is nothing required form break fix side.
+
+
+
+2507040050002722  - Solution delivered, customer unresponsive. 3 strike completed.
+2507220050002137 
+2507140030008109 
+2507160050000101 
+2507070050003064 
+
+
+
+Root = Rajnish02@
+
+
+
+As per ask customer have excluded MFA for the Entra ID account which is being used for the integration. Need to share the next steps to customer
+As per ask customer have excluded MFA for the Entra ID account which is being used for the integration. Need to share the next steps to customer
