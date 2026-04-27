@@ -1,0 +1,30 @@
+1. Configure Windows Firewall on SQL Server
+Step 1: Open Windows Defender Firewall
+	• Open Control Panel
+	• Go to Windows Defender Firewall
+	• Select Advanced settings
+Step 2: Create an Inbound Rule
+	• Click Inbound Rules → New Rule
+	• Select Port → Next
+	• Choose TCP
+	• Enter the custom SQL port (for example: 51433)
+	• Click Next
+Step 3: Allow the Connection
+	• Select Allow the connection
+	• Click Next
+Step 4: Select Profiles
+	• Choose applicable profiles: 
+		○ Domain (recommended for domain‑joined servers)
+		○ Private / Public only if required
+	• Click Next
+Step 5: Name the Rule
+	• Name: SQL Server – Custom Port 51433
+	• Add description (optional)
+	• Click Finish
+✅ The SQL port is now allowed inbound.
+
+2. Create Outbound Rule (Optional but Recommended)
+If outbound traffic is restricted:
+	• Repeat the above steps under Outbound Rules
+	• Use the same port and settings
+
